@@ -1,0 +1,43 @@
+[0.643s] Invoking command in '/home/wormi/sprint4/v6/g06_prii3_wsv2/src/aruco_detector_pkg': PYTHONPATH=/home/wormi/sprint4/v6/build/aruco_detector_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/aruco_detector_pkg build --build-base /home/wormi/sprint4/v6/build/aruco_detector_pkg/build install --record /home/wormi/sprint4/v6/build/aruco_detector_pkg/install.log --install-scripts $base/lib/aruco_detector_pkg --single-version-externally-managed install_data
+[0.772s] running egg_info
+[0.773s] creating ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info
+[0.773s] writing ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/PKG-INFO
+[0.773s] writing dependency_links to ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/dependency_links.txt
+[0.773s] writing entry points to ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/entry_points.txt
+[0.773s] writing requirements to ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/requires.txt
+[0.773s] writing top-level names to ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/top_level.txt
+[0.784s] writing manifest file '../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/SOURCES.txt'
+[0.804s] reading manifest file '../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/SOURCES.txt'
+[0.804s] writing manifest file '../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/SOURCES.txt'
+[0.804s] running build
+[0.805s] running build_py
+[0.805s] creating /home/wormi/sprint4/v6/build/aruco_detector_pkg/build
+[0.805s] creating /home/wormi/sprint4/v6/build/aruco_detector_pkg/build/lib
+[0.805s] creating /home/wormi/sprint4/v6/build/aruco_detector_pkg/build/lib/aruco_detector_pkg
+[0.805s] copying aruco_detector_pkg/aruco_robot_detector.py -> /home/wormi/sprint4/v6/build/aruco_detector_pkg/build/lib/aruco_detector_pkg
+[0.805s] copying aruco_detector_pkg/aruco_detector.py -> /home/wormi/sprint4/v6/build/aruco_detector_pkg/build/lib/aruco_detector_pkg
+[0.805s] copying aruco_detector_pkg/__init__.py -> /home/wormi/sprint4/v6/build/aruco_detector_pkg/build/lib/aruco_detector_pkg
+[0.805s] running install
+[0.805s] running install_lib
+[0.805s] creating /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg
+[0.805s] copying /home/wormi/sprint4/v6/build/aruco_detector_pkg/build/lib/aruco_detector_pkg/aruco_robot_detector.py -> /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg
+[0.805s] copying /home/wormi/sprint4/v6/build/aruco_detector_pkg/build/lib/aruco_detector_pkg/aruco_detector.py -> /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg
+[0.805s] copying /home/wormi/sprint4/v6/build/aruco_detector_pkg/build/lib/aruco_detector_pkg/__init__.py -> /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg
+[0.806s] byte-compiling /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg/aruco_robot_detector.py to aruco_robot_detector.cpython-38.pyc
+[0.807s] byte-compiling /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg/aruco_detector.py to aruco_detector.cpython-38.pyc
+[0.807s] byte-compiling /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg/__init__.py to __init__.cpython-38.pyc
+[0.808s] running install_data
+[0.808s] creating /home/wormi/sprint4/v6/install/aruco_detector_pkg/share/ament_index
+[0.808s] creating /home/wormi/sprint4/v6/install/aruco_detector_pkg/share/ament_index/resource_index
+[0.808s] creating /home/wormi/sprint4/v6/install/aruco_detector_pkg/share/ament_index/resource_index/packages
+[0.808s] copying resource/aruco_detector_pkg -> /home/wormi/sprint4/v6/install/aruco_detector_pkg/share/ament_index/resource_index/packages
+[0.808s] copying package.xml -> /home/wormi/sprint4/v6/install/aruco_detector_pkg/share/aruco_detector_pkg
+[0.808s] creating /home/wormi/sprint4/v6/install/aruco_detector_pkg/share/aruco_detector_pkg/launch
+[0.808s] copying launch/static_robot_aruco_tf.launch.py -> /home/wormi/sprint4/v6/install/aruco_detector_pkg/share/aruco_detector_pkg/launch
+[0.808s] running install_egg_info
+[0.809s] Copying ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info to /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg-0.0.0-py3.8.egg-info
+[0.809s] running install_scripts
+[0.819s] Installing aruco_detector script to /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/aruco_detector_pkg
+[0.819s] Installing aruco_robot_detector script to /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/aruco_detector_pkg
+[0.819s] writing list of installed files to '/home/wormi/sprint4/v6/build/aruco_detector_pkg/install.log'
+[0.832s] Invoked command in '/home/wormi/sprint4/v6/g06_prii3_wsv2/src/aruco_detector_pkg' returned '0': PYTHONPATH=/home/wormi/sprint4/v6/build/aruco_detector_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/aruco_detector_pkg build --build-base /home/wormi/sprint4/v6/build/aruco_detector_pkg/build install --record /home/wormi/sprint4/v6/build/aruco_detector_pkg/install.log --install-scripts $base/lib/aruco_detector_pkg --single-version-externally-managed install_data

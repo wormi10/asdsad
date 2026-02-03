@@ -1,0 +1,22 @@
+[0.661s] Invoking command in '/home/wormi/sprint4/v6/g06_prii3_wsv2/src/aruco_detector_pkg': PYTHONPATH=/home/wormi/sprint4/v6/build/aruco_detector_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/aruco_detector_pkg build --build-base /home/wormi/sprint4/v6/build/aruco_detector_pkg/build install --record /home/wormi/sprint4/v6/build/aruco_detector_pkg/install.log --install-scripts $base/lib/aruco_detector_pkg --single-version-externally-managed install_data
+[0.805s] running egg_info
+[0.806s] writing ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/PKG-INFO
+[0.817s] writing dependency_links to ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/dependency_links.txt
+[0.817s] writing entry points to ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/entry_points.txt
+[0.818s] writing requirements to ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/requires.txt
+[0.818s] writing top-level names to ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/top_level.txt
+[0.839s] reading manifest file '../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/SOURCES.txt'
+[0.839s] writing manifest file '../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info/SOURCES.txt'
+[0.840s] running build
+[0.840s] running build_py
+[0.840s] running install
+[0.841s] running install_lib
+[0.842s] running install_data
+[0.843s] running install_egg_info
+[0.844s] removing '/home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.844s] Copying ../../../build/aruco_detector_pkg/aruco_detector_pkg.egg-info to /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages/aruco_detector_pkg-0.0.0-py3.8.egg-info
+[0.844s] running install_scripts
+[0.854s] Installing aruco_detector script to /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/aruco_detector_pkg
+[0.854s] Installing aruco_robot_detector script to /home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/aruco_detector_pkg
+[0.855s] writing list of installed files to '/home/wormi/sprint4/v6/build/aruco_detector_pkg/install.log'
+[0.868s] Invoked command in '/home/wormi/sprint4/v6/g06_prii3_wsv2/src/aruco_detector_pkg' returned '0': PYTHONPATH=/home/wormi/sprint4/v6/build/aruco_detector_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wormi/sprint4/v6/install/aruco_detector_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/aruco_detector_pkg build --build-base /home/wormi/sprint4/v6/build/aruco_detector_pkg/build install --record /home/wormi/sprint4/v6/build/aruco_detector_pkg/install.log --install-scripts $base/lib/aruco_detector_pkg --single-version-externally-managed install_data
